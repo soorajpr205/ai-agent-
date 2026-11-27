@@ -7,6 +7,7 @@ Provides forward and backward gradient passes for:
 - Tanh
 - Softmax
 """
+# TODO: Add GELU activation
 
 import numpy as np
 from src.core.layers import Layer
